@@ -1,0 +1,46 @@
+*{margin: opx;
+padding: 0px;
+box-sizing: border-box;}
+
+.container{border: 10px solid rgb(45, 18, 71);
+    border-radius: 10px;
+    border-image: linear-gradient(45deg, rgb(31, 9, 160), rgb(58, 201, 211),rgb(31, 9, 160), rgb(206, 58, 211) ) 1;
+width: 500px;
+margin: auto;
+margin-top: 150px;height: 500px;}
+
+/* form{border: 1px solid red;} */
+
+.title{text-align: center;margin-top: 30px;
+color: gray;}
+
+.buton{border-radius: 15px;
+    width: 200px;
+    height: 50px;}
+
+
+
+#button{text-align: center;
+    padding: 20px;}
+form{width: 80%;
+margin: auto;
+height: 300px;}
+
+#uname, #upassword{width:100%;
+height: 40px;
+border-radius: 10px;}
+.sign{text-align: center;
+margin-top:10%;background-color: black;
+}
+.signbutton{width: 100%;height: 40px;
+    border-radius: 10px;background-color: black;
+}
+.footer{text-align: center;
+margin-top: 40px;
+color: silver;}
+
+a{color:silver}
+#ff{margin-left: 5px;}
+
+
+
